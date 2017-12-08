@@ -1,0 +1,10 @@
+$SYSTEM SETTINGS FOR GAMESS PROGRAMS
+$setup_run_previously = True
+$Full path to gamess folder
+path_to_gamess = /home/asher/Programs/gamess/
+$Directory for binary output files
+temporary_binary_directory = /scr/asher/
+$Directory for supplemental output files
+supplemental_output_directory = /home/asher/scr/
+$Version number for gamess
+gamess_version = 01

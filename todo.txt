@@ -1,0 +1,13 @@
+Things to do to optimization program:
+
+TODO: Documentation
+
+BASIS SETS:
+TODO: Add Correlation Consistent basis set parameters
+TODO: Add Polarization Consistent basis set parameters
+
+ADDITIONAL FEATURES:
+TODO: Add a GUI
+TODO: Make selecting the basis set a radiobutton selection
+TODO: Allow the user to input/select the directory where the data are stored
+TODO: One-time setup routine - store parameters in a file
